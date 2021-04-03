@@ -25,7 +25,7 @@ function setup() {
   red1 = color(247, 64, 19);
   black = color(10, 10, 10);
   white = color(245, 245, 245);
-  grey = color(240, 240, 240);
+  grey = color(240, 240, 240, 200);
   whiteAlpha = color(245, 245, 245, 0);
   colors = [magenta1, cyan1, yellow1, red1];
 
